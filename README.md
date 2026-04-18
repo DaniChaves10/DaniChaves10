@@ -10,7 +10,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e, ao longo da minha traje
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniChaves10&repo=coisasestranhas.github.io&treme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniChaves10&repo=stranger-things.github.io&treme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagem utilizadas
 
