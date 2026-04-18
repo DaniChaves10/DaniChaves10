@@ -5,13 +5,10 @@ Sou formado em Análise e Desenvolvimento de Sistemas e, ao longo da minha traje
 
 
 ### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniChaves10&show_icons=true&treme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniChaves10&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniChaves10&repo=stranger-things.github.io&treme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=DaniChaves10&repo=stranger-things.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagem utilizadas
-
-[![top Langs](https://github-readme-stats.vercel.spp/api/top-langs/?username=DaniChaves10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniChaves10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
