@@ -7,3 +7,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e, ao longo da minha traje
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniChaves10&show_icons=true&treme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniChaves10&repo=Stranger-Things.github.io&treme=dark)](https://github.com/anuraghazra/github-readme-stats)
