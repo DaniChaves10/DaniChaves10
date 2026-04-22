@@ -9,7 +9,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e, ao longo da minha traje
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniChaves10&repo=Stranger-things&theme=dark)](https://github.com/DaniChaves10/Stranger-things)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniChaves10&repo=Stranger-things&theme=dark)](https://github.com/DaniChaves10/Barbearia-Estilo-Livre.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniChaves10&repo=Barbearia-Estilo-Livre&theme=dark)](https://github.com/DaniChaves10/Barbearia-Estilo-Livre.git)
 
 ### Linguagem utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniChaves10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
